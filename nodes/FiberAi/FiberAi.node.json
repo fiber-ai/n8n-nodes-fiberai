@@ -1,0 +1,21 @@
+{
+	"node": "n8n-nodes-fiberai",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Marketing & Content"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.fiber.ai"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/fiber-ai/n8n-nodes-fiberai#readme"
+			}
+		]
+	}
+}
